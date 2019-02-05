@@ -24,7 +24,8 @@ coverage
 build/Release
 
 # Compiled commonJS files
-lib
+# # yeah i WANNA commit the compiled one
+# lib
 spec
 
 # Dependency directory
